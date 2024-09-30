@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMeth", "FactoryMeth\FactoryMeth.csproj", "{1D9C84C7-8513-4A1F-A4A4-59BC9F295511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D9C84C7-8513-4A1F-A4A4-59BC9F295511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D9C84C7-8513-4A1F-A4A4-59BC9F295511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D9C84C7-8513-4A1F-A4A4-59BC9F295511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D9C84C7-8513-4A1F-A4A4-59BC9F295511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8C622F7-4E2E-4E24-838A-9E9DB16B0EA6}
+	EndGlobalSection
+EndGlobal
